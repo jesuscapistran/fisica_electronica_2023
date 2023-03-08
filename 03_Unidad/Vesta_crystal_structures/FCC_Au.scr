@@ -1,0 +1,29 @@
+# Cargar la estructura cristalina FCC de oro
+read cifs "Au_fcc.cif"
+
+# Definir la celda unitaria primitiva
+set primcell [Cell -fromprimitive -tolerance 0.1]
+
+# Ajustar la visualización
+display reset
+display style Ball+Stick
+display unitcell on
+display set celldisplaymode 0
+display set celldisplayunit primitive
+display set axes on
+display set axislength 1.5
+display set bgcolor white
+display set bondradius 0.04
+display set bondtaper 0.4
+display set bondhetero off
+display set bondsimplify on
+display set bonddepthcue on
+display set atomscale 30
+display set atomlabelmode 1
+display set atomlabelsize 18
+display set atomlabelcolor black
+display set bondlabelmode 0
+
+# Mostrar la celda unitaria primitiva
+visualize cell $primcell
+
