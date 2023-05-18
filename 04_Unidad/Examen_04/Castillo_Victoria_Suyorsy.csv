@@ -1,0 +1,11 @@
+﻿Question,Type,Retake,Correct,"Retake detail"
+"¿Qué tipo de semiconductor se forma cuando se dopa el silicio con impurezas donadoras?",single_choice,0,True
+"¿Que tipo de enlace químico se genera entre un átomo de silicio y una impureza de Boro?",single_choice,0,True
+"¿Qué tipo de semiconductor se forma cuando se dopa el silicio con impurezas de boro?",single_choice,0,True
+"¿Qué efecto tienen las impurezas de fósforo en la red cristalina del silicio?",single_choice,0,True
+"¿Qué determina la concentración de portadores de carga en el material dopado de silicio?",single_choice,0,True
+"¿Cuál es el objetivo principal de dopar al semiconductor silicio ?",single_choice,0,True
+"¿Cuál es la conductividad eléctrica de un semiconductor tipo-n impurificado con 10^23 m^-3  átomos de fósforo?",single_choice,0,False
+"¿Cuál es la densidad de huecos dentro de un semiconductor tipo-n que fue impurificado con 10^17 cm^-3 impurezas de fosforo?",single_choice,0,True
+"¿Cuál es la densidad de electrones dentro de un semiconductor tipo-n que fue impurificado con 10^17 cm^-3 impurezas de fosforo?",single_choice,0,True
+"¿Dónde esta el nivel de Fermi  dentro de la brecha de energía de silicio (Eg= 1.12 eV)  cuando impurificamos con 10^15 cm^-3 átomos de Boro?",single_choice,0,True
